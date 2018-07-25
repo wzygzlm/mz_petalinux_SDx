@@ -1,0 +1,10 @@
+18:57:59 INFO  : Registering command handlers for SDK TCF services
+18:57:59 INFO  : Launching XSCT server: xsct.bat -interactive E:\workspace\mz_petalinux_SDx\sdx\sdx_prjs\temp_xsdb_launch_script.tcl
+18:57:59 INFO  : Validating SDSoC License...
+18:57:59 INFO  : License available for SDSoC
+18:57:59 INFO  : Validating SDAccel License...
+18:57:59 INFO  : License for SDAccel is unavailable
+18:58:01 INFO  : XSCT server has started successfully.
+18:58:01 INFO  : plnx-install-location is set to ''
+18:58:01 INFO  : Successfully done setting XSCT server connection channel  
+18:58:01 INFO  : Successfully done setting SDK workspace  
