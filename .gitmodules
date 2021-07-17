@@ -1,0 +1,3 @@
+[submodule "minized_petalinux_prjs"]
+	path = minized_petalinux_prjs
+	url = https://github.com/wzygzlm/minized_petalinux_prjs
